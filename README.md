@@ -39,6 +39,8 @@
 <img width="454" alt="created role" src="https://github.com/user-attachments/assets/b2ea6379-cab6-404e-8134-fc34e802982b">
 
 [role.yaml](https://github.com/sash3939/Kubernetes9-Access_Manage/blob/main/rbac/role.yaml)
+
+
 [role_binding.yaml](https://github.com/sash3939/Kubernetes9-Access_Manage/blob/main/rbac/role_binding.yaml)
 
 4. Предусмотрите права пользователя. Пользователь может просматривать логи подов и их конфигурацию (`kubectl logs pod <pod_id>`, `kubectl describe pod <pod_id>`).
