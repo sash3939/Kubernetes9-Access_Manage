@@ -29,6 +29,7 @@
 <img width="815" alt="create certs" src="https://github.com/user-attachments/assets/40189ec9-a573-4b75-a8d5-bf7d35bd9124">
 
 2. Настройте конфигурационный файл kubectl для подключения.
+  
 Переносим на машину с которой будем подключаться и настраиваем конфигурационный файл. Добавляем пользователя kuber (в моем случае), добавляем контекст и проверяем конфигурацию
 
 <img width="604" alt="configuration" src="https://github.com/user-attachments/assets/bd53a64e-8c1e-4cd9-8d18-ba1ee0c00337">
