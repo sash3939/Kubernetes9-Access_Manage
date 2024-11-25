@@ -158,9 +158,15 @@ Replacing default HTTP port (80) with the value specified by the user - (HTTP_PO
 Replacing default HTTPS port (443) with the value specified by the user - (HTTPS_PORT: 443).
 
 ```
+Команды logs и describe от УЗ kuber работают
 
 6. Предоставьте манифесты и скриншоты и/или вывод необходимых команд.
 
+[Config](https://github.com/sash3939/Kubernetes9-Access_Manage/blob/main/rbac/config)
+
+[Role.yaml](https://github.com/sash3939/Kubernetes9-Access_Manage/blob/main/rbac/role.yaml)
+
+[Role_binding.yaml](https://github.com/sash3939/Kubernetes9-Access_Manage/blob/main/rbac/role_binding.yaml)
 
 ------
 
